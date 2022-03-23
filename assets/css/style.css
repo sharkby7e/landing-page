@@ -1,0 +1,11 @@
+body{
+    background-color: #75B8C8;
+}
+header {
+    z-index: 2;
+    background-color: #506C64;
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
